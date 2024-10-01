@@ -1,0 +1,51 @@
+date,amount,category,description
+20-12-24,123,Income,Salary
+20-12-24,123,Income,Salary
+30-09-2024,1234.0,Expense,Grocery
+15-01-2024,2000,Income,Freelance Payment
+10-02-2024,1500,Expense,Rent
+25-03-2024,800,Expense,Electricity Bill
+02-04-2024,500,Income,Gift
+12-04-2024,2500,Expense,Car Repair
+28-04-2024,1750,Income,Bonus
+10-05-2024,450,Expense,Restaurant
+15-05-2024,1200,Income,Part-time Work
+20-05-2024,800,Expense,Shopping
+01-06-2024,300,Expense,Coffee
+05-06-2024,400,Income,Refund
+20-06-2024,2200,Income,Salary
+30-06-2024,1400,Expense,Vacation
+02-07-2024,250,Expense,Cinema
+10-07-2024,900,Income,Side Job
+22-07-2024,200,Expense,Taxi
+30-07-2024,500,Income,Reimbursement
+05-08-2024,700,Expense,Groceries
+14-08-2024,150,Expense,Mobile Recharge
+22-08-2024,3200,Income,Project Work
+28-08-2024,1000,Expense,Medical Bill
+04-09-2024,1800,Income,Salary
+12-09-2024,600,Expense,Dining Out
+19-09-2024,450,Expense,Clothing
+22-09-2024,800,Income,Freelance Job
+29-09-2024,1500,Expense,Furniture
+05-10-2024,950,Income,Part-time Work
+15-10-2024,400,Expense,Internet Bill
+20-10-2024,750,Expense,Books
+28-10-2024,1300,Income,Bonus
+04-11-2024,500,Expense,Utilities
+11-11-2024,600,Expense,Entertainment
+18-11-2024,2900,Income,Consulting
+25-11-2024,900,Expense,Home Maintenance
+03-12-2024,1200,Income,Salary
+10-12-2024,700,Expense,Gadgets
+18-12-2024,1800,Income,Freelance Project
+22-12-2024,300,Expense,Taxi
+25-12-2024,500,Income,Gift
+28-12-2024,1000,Expense,Holiday Travel
+30-12-2024,2000,Income,Bonus
+05-01-2025,700,Expense,Groceries
+10-01-2025,450,Expense,Subscriptions
+15-01-2025,3500,Income,Freelance Payment
+20-01-2025,900,Expense,Car Service
+25-01-2025,1500,Income,Part-time Job
+30-09-2024,45.0,Expense,Coffee
