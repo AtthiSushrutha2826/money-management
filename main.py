@@ -30,21 +30,21 @@ class CSV:
             writer.writerow(new_entry)
         print("Entry added successfully")
 
-    @classmethod
+    @classmethod  #transaction between interval
     def get_transactions(cls, start_date, end_date):
         df = pd.read_csv(cls.CSV_FILE)
         
-        # Convert date column to datetime format, handling errors
+        
         df["date"] = pd.to_datetime(df["date"], format=CSV.FORMAT, errors='coerce')
         
-        # Drop rows where the date conversion failed
+        
         df.dropna(subset=["date"], inplace=True)
         
-        # Convert input start and end dates to datetime
+        
         start_date = datetime.strptime(start_date, CSV.FORMAT)
         end_date = datetime.strptime(end_date, CSV.FORMAT)
 
-        # Filter transactions based on the date range
+        
         mask = (df["date"] >= start_date) & (df["date"] <= end_date)
         filtered_df = df.loc[mask]
 
